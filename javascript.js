@@ -11,5 +11,4 @@ function randomNumber(){
     document.getElementById('jednako').innerHTML=jednako;
 
 
-
 };
